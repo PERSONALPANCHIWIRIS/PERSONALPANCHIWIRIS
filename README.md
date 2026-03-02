@@ -2,6 +2,7 @@
 - I’m interested in: Cyber Security
 - I’m currently learning: Comp Sci in Tecnico, Lisbon.
 - How to reach me: personal: fplanas621@gmail.com
+  faculty: francisco.ernesto.planas.pestana@tecnico.ulisboa.pt
 - This is my personal github account, used only for personal projects.
 
 <!---
